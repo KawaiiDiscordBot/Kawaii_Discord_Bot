@@ -3,7 +3,7 @@ This is the official github page for the Discord Kawaii Bot, look bellow for the
 
 !help - List all help commands.
 
-!catgirl - Sends a catgirl gif.
+!catgirl - Sends a cat girl gif.
 
 !rd - Sends a random number!
 

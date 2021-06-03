@@ -11,4 +11,6 @@ This is the official github page for the Discord Kawaii Bot, look bellow for the
 
 !pride - Sends a nice pride flag!
 
+More commands coming soon!
+
 This is the official invite link: https://discord.com/api/oauth2/authorize?client_id=850149640414036058&permissions=8&scope=bot
